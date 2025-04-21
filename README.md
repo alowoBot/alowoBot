@@ -1,6 +1,6 @@
 # alowoBot
 ### By [vfsas3](https://github.com/vfsas3) <img src="assets/owo.png" width="24" />
-A Twitch moderation bot that enforces good vibes and proper emote etiquette — with some AI magic.
+A Twitch moderation bot that enforces good vibes and proper emote etiquette.
 
 
 ![alowo](https://cdn.7tv.app/emote/01H7AXNHM0000466AJ0H5AD484/4x.webp)
