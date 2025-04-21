@@ -1,5 +1,5 @@
-# <img src="assets/owo.png" width="24" /> alowoBot
-### By [vfsas3](https://github.com/vfsas3)
+# alowoBot
+### By [vfsas3](https://github.com/vfsas3) <img src="assets/owo.png" width="24" />
 A Twitch moderation bot that enforces good vibes and proper emote etiquette — with some AI magic.
 
 
